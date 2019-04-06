@@ -25,6 +25,12 @@ public class Loginapplication {
 		RediffHomepage rh=new RediffHomepage(driver);
 		rh.Search().sendKeys("rediff");
 		rh.Submit().click();
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
 		
 		
 		
