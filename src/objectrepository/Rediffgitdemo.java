@@ -1,12 +1,13 @@
 package objectrepository;
 
-public class Rediff {
+public class Rediffgitdemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hello");
+		
+		System.out.println("hello git");
+		
 
-System.out.println("hello git ");
 	}
 
 }
