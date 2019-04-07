@@ -8,10 +8,24 @@ System.out.println("hello");
 
 System.out.println("hello git ");
 
+
 System.out.println("hello git develope ");
 System.out.println("hello git ");
+System.out.println("hello new method ");
+	
 	
 
-	}
+
+	
+	
+	
+	
+	
+	
+	
+}
+	
+	
+	
 
 }
